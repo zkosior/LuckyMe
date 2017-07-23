@@ -1,0 +1,29 @@
+Lucky me
+Dr. Stevens was not only a great physicist; he was also a very superstitious one. He
+wondered if there is a reason for his bad luck, an ultimate answer to all of his life questions.
+
+He decided to check the underlying structure of the world around him. Being familiar with
+many large numbers – the number of stars in a galaxy, number of particles in a human body,
+the number of atoms in the whole Universe and whatnot – he started to suspect that some
+of them might be simply divisible by the most unlucky number of them all – thirteen.
+
+Here’s where you come in. Write a program that, for a given set of positive integers returns
+a series of Yes or No, depending on whether the given number is divisible by 13 or not.
+
+The input will consist of a series of numbers, each in a separate line. The output should also
+be a series of either Yes or No, each in a separate line. The input numbers can be quite large,
+meaning they could range from 1 to 10310.
+
+Sample input:
+
+17
+19186648
+1192533292512492016559195008117
+5962666462562460082795975040588
+
+Sample output:
+
+No
+Yes
+Yes
+No
